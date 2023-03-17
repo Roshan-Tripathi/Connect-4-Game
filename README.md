@@ -14,3 +14,7 @@ https://mobcup.net/ringtone/super-mario-sound-pfyvepwm
 To run the code, you must have Python 3 installed to your system, along with numpy and pygame module:
 After that, download the code and run code.py!
 Happy gaming!
+
+
+https://user-images.githubusercontent.com/128136329/225869613-b83fe81e-1d19-4415-a611-ed32d0e3514e.mov
+
