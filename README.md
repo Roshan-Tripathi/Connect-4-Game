@@ -15,7 +15,7 @@ To run the code, you must have Python 3 installed to your system, along with num
 After that, download the code and run code.py!
 Happy gaming!
 
-#Demo Video of Connect-4-Game
+# Demo Video of Connect-4-Game
 
 
 https://user-images.githubusercontent.com/128136329/225869613-b83fe81e-1d19-4415-a611-ed32d0e3514e.mov
